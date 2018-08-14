@@ -1,3 +1,3 @@
-function (year, school, model) {
+function Scooter (year, color, model) {
   
 }
